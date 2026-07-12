@@ -1,5 +1,8 @@
 #  About Me:
-💼 I'm currently working on<br><br>Building full-stack applications with the MERN stack, improving my DSA skills, and developing AI-powered developer tools while exploring React Native development.<br> I'm looking to collaborate on<br>Open-source projects, full-stack web applications, AI-powered tools, developer productivity platforms, and innovative hackathon projects.<br>I'm looking for help with<br>System Design, Cloud Technologies, scalable backend architecture, and contributing to large open-source projects.<br> I'm currently learning<br>Advanced Data Structures & Algorithms, React Native, Backend Development with Node.js & Express, MongoDB, REST APIs, AI integration, and Software Engineering best practices.<br>I believe consistency beats talent—I love learning by building, solving problems, and continuously improving one commit at a time.
+Hi, I'm Tejaswi Yandamuri, a final-year Computer Science student passionate about software development, problem-solving, and building applications that create real-world impact.
+I enjoy developing full-stack web applications using the MERN Stack, strengthening my Data Structures & Algorithms skills through competitive programming, and continuously exploring new technologies.
+I'm always eager to learn, collaborate on meaningful projects, contribute to open source, and grow as a software engineer by building scalable, user-focused solutions.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejaswi-yandamuri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejaswiyandamuri06@gmail.com) 
